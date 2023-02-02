@@ -1,6 +1,6 @@
 ### Opa! Eai, eu sou o João Pedro 👾
-
-#### Essas são algumas linguagens que eu mais estudei e continuo estudando nos dias de hoje
+##### No momento em que estou escrevendo esse "README", não possuo nenhuma rede social, mas quando eu ter uma, eu volto aqui e divulgo para vocês.
+#### Estas são algumas linguagens que eu estou estudando:
 
 <div style="display: inline_block"></br>
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
